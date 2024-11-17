@@ -5,6 +5,7 @@
 ### Isso aqui será para a imagem
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+# Aqui é um código aleatório
 ``` C
 include <stdio.h>
 int main(){
@@ -13,3 +14,7 @@ printf("ola");
 return 0;
 }
 ```
+# Aqui será para colocar as marcações de lista
+- [ ] Fazer 
+- [x] ou 
+- [ ] Ter
